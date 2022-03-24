@@ -2,8 +2,6 @@
 
 ## How to Use
 
-### Download the dataset
-
 - download the dataset from [here](https://drive.google.com/file/d/1WNFYiAHcCemTZtdsjbTWVh9_WgZSzlbx/view?usp=sharing).
 - copy the dataset into a folder in your local repo and make sure the folder is named 'dataset'.
 
